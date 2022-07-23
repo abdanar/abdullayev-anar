@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullayev-anar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullayev-anar" /> </p>
 
-- 📝 I plan to write articles on [numerical methods.](numerical methods.)
+- 📝 I plan to write articles on numerical methods.
 
 - 📫 How to reach me **abdullaanar172@gmail.com**
 
