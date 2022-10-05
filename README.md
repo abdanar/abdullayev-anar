@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anar Abdullayev</h1>
-<h3 align="center">A math student</h3>
+<h3 align="center">just a curious guy</h3>
 
 - 📝 I plan to write articles on numerical methods.
 
