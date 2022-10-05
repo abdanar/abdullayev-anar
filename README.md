@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anar Abdullayev</h1>
+<h1 align="center">Hi, I'm Anar Abdullayev</h1>
 <h3 align="center">A math student</h3>
 
 - 📝 I plan to write articles on numerical methods.
