@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anar Abdullayev</h1>
-<h3 align="center">just a curious guy</h3>
 
 - 📫 You can reach me via **abdullaanar172@gmail.com**
 
